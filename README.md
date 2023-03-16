@@ -1,3 +1,15 @@
+# Restaurant webapp
+
+## The Next.js 13 Bootcamp
+
+https://www.youtube.com/watch?v=-4giAYiEfa4&ab_channel=LaithAcademy
+
+https://github.com/harblaith7/Next13-Udemy-Course/tree/main/app/restaurant
+
+https://tailwindcss.com/docs/guides/nextjs
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
