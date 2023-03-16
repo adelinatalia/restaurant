@@ -22,7 +22,7 @@ export default function Home() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <h2 className={inter.className}>
+        <h2 className="text-blue-500 text-5xl">
           Templates <span>-&gt;</span>
         </h2>
         <p className={inter.className}>Explore the Next.js 13 playground.</p>
